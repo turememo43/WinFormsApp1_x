@@ -21,7 +21,8 @@ namespace WinFormsApp1_x
 
             label1.Text = userTable["burcu06"].username;
 
-
+            //xzvczvx
+            
 
         }
 
